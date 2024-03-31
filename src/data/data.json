@@ -1,0 +1,97 @@
+{
+  "performanceData": {
+    "monthlyData": [
+      {
+        "month": "Oct 2023",
+        "views": 385,
+        "likes": 190,
+        "comments": 78,
+        "shares": 120,
+        "activeUsers": 2000,
+        "sessionActivity": "35min"
+      },
+      {
+        "month": "Nov 2023",
+        "views": 410,
+        "likes": 205,
+        "comments": 85,
+        "shares": 130,
+        "activeUsers": 2100,
+        "sessionActivity": "42min"
+      },
+      {
+        "month": "Dec 2023",
+        "views": 430,
+        "likes": 220,
+        "comments": 90,
+        "shares": 140,
+        "activeUsers": 2200,
+        "sessionActivity": "50min"
+      },
+      {
+        "month": "Jan 2024",
+        "views": 610,
+        "likes": 310,
+        "comments": 132,
+        "shares": 182,
+        "activeUsers": 2500,
+        "sessionActivity": "27min"
+      },
+      {
+        "month": "Feb 2024",
+        "views": 700,
+        "likes": 350,
+        "comments": 145,
+        "shares": 200,
+        "activeUsers": 2700,
+        "sessionActivity": "60min"
+      },
+      {
+        "month": "Mar 2024",
+        "views": 660,
+        "likes": 330,
+        "comments": 140,
+        "shares": 192,
+        "activeUsers": 2600,
+        "sessionActivity": "38min"
+      }
+    ],
+    "status": {
+      "mostLikedTopics": [
+        {"topic": "Topic 1", "count": 100},
+        {"topic": "Topic 2", "count": 95},
+        {"topic": "Topic 3", "count": 90},
+        {"topic": "Topic 4", "count": 85},
+        {"topic": "Topic 5", "count": 80}
+      ],
+      "mostCommentedTopics": [
+        {"topic": "Topic A", "count": 50},
+        {"topic": "Topic B", "count": 45},
+        {"topic": "Topic C", "count": 40},
+        {"topic": "Topic D", "count": 35},
+        {"topic": "Topic E", "count": 30}
+      ],
+      "mostSharedTopics": [
+        {"topic": "Topic X", "count": 70},
+        {"topic": "Topic Y", "count": 65},
+        {"topic": "Topic Z", "count": 60},
+        {"topic": "Topic W", "count": 55},
+        {"topic": "Topic V", "count": 50}
+      ],
+      "mostViewedNews": [
+        {"news": "News 1", "count": 200},
+        {"news": "News 2", "count": 195},
+        {"news": "News 3", "count": 190},
+        {"news": "News 4", "count": 185},
+        {"news": "News 5", "count": 180}
+      ],
+      "mostTrendingTopics": [
+        {"topic": "Trending Topic 1", "count": 120},
+        {"topic": "Trending Topic 2", "count": 115},
+        {"topic": "Trending Topic 3", "count": 110},
+        {"topic": "Trending Topic 4", "count": 105},
+        {"topic": "Trending Topic 5", "count": 100}
+      ]
+    }
+  }
+}
